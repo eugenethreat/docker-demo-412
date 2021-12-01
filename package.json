@@ -1,0 +1,17 @@
+{
+    "name:" :"app",
+    "version":"1.0.0",
+    "description": "testing docker",
+    "main": "app.js",
+    "scripts": {
+        "start": "node ./app.js --name node_app"
+
+    },
+    "author": "eugene ryoo",
+    "license": "not lmao",
+    "dependencies": {
+        "express": "4.16.4"
+    }
+
+
+}
